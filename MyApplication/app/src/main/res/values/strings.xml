@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MadRental</string>
+    <string name="profil">Mon profil</string>
+    <string name="recherche">Lancer une recherche :</string>
+    <string name="book">Mes réservations</string>
+    <string name="debut_reservation">Date de début de réservation</string>
+    <string name="fin_réservation">Date de fin de réservation</string>
+    <string name="rechercher">Rechercher</string>
+    <string name="renseigner">Merci de renseigner votre profil :</string>
+    <string name="nom">Nom</string>
+    <string name="prenom">Prénom</string>
+    <string name="date">Date de naissance</string>
+    <string name="valid">Valider</string>
+    <string name="prixfinal">Prix final:</string>
+    <string name="merci">Merci de saisir ici vos demandes spécifiques :</string>
+    <string name="message">votre message ...</string>
+    <string name="buggy">Buggy</string>
+    <string name="suivant">Suivant</string>
+</resources>
